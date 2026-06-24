@@ -59,7 +59,7 @@ npm run dev
 
 ## 📸 Screenshots
 <img width="1916" height="906" alt="image" src="https://github.com/user-attachments/assets/6adfcdf7-5443-4a08-a758-64772f67dc74" />
-<img width="1916" height="913" alt="image" src="https://github.com/user-attachments/assets/922ef822-6687-4d7f-9fe5-3291d127cbc7" />
+<img width="1905" height="915" alt="image" src="https://github.com/user-attachments/assets/8a9a1dfd-3ff0-4ca6-af23-39a04d82330d" />
 <img width="1907" height="913" alt="image" src="https://github.com/user-attachments/assets/731d6229-13ad-49ea-92b0-e083fdc8aeab" />
 <img width="1327" height="712" alt="image" src="https://github.com/user-attachments/assets/8883af3f-1728-47a4-bc92-f429f3120f23" />
 
