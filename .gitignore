@@ -1,0 +1,16 @@
+# Backend (Python / FastAPI)
+backend/.venv/
+backend/__pycache__/
+backend/*.pyc
+backend/weather.db
+backend/.env
+
+# Frontend (Node / React / Vite)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Genel IDE dosyaları
+.vscode/
+.idea/
+.DS_Store
